@@ -1,0 +1,8 @@
+Funcion copiada de 
+https://github.com/guidingdigital/yt-gatsby-aws-lambda-redirect/blob/master/index.js
+
+para redirigir toda url que no contenga www.
+
+también la del cloudfront
+
+Escrita en nodejs
